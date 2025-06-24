@@ -10,7 +10,7 @@ This project involved cleaning and preparing a dataset related to mental health 
 
 
 ## 🛠️ Tools Used
-- 📊 **MySQL** – Data cleaning and transformation
+- 📊 MySQL – Data cleaning and transformation
 - 💻 GitHub – Version control and project sharing
 
 ## 🧹 Data Cleaning Steps
